@@ -7,7 +7,9 @@ import org.apache.spark.sql.types.StructField;
 import org.apache.spark.sql.types.StructType;
 import org.apache.spark.sql.streaming.StreamingQuery;
 import org.apache.spark.sql.streaming.Trigger;
+
 import static org.apache.spark.sql.functions.*;
+
 
 public class HospitalIncidentStreamingApp {
     public static void main(String[] args) throws Exception {
