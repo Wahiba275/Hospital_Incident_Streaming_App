@@ -1,0 +1,17 @@
+id,titre,description,service,date
+1,Problème d'équipement,Le scanner ne fonctionne pas correctement,Service de Radiologie,2023-11-30
+2,Erreur de dosage,Erreur de dosage dans la prescription médicale,Service de Pharmacie,2023-11-30
+3,Panne d'électricité,Perte de courant dans l'aile est de l'hôpital,Service des Installations,2023-11-30
+4,Accident de glissement,Chute dans le hall d'entrée,Service des Urgences,2023-11-30
+5,Infection nosocomiale,Cas d'infection nosocomiale identifié,Service d'Hygiène,2023-11-30
+6,Problème d'équipement,Le scanner ne fonctionne pas correctement,Service de Radiologie,2024-11-30
+7,Erreur de dosage,Erreur de dosage dans la prescription médicale,Service de Pharmacie,2024-11-30
+8,Infection nosocomiale,Cas d'infection nosocomiale identifié,Service d'Hygiène,2024-11-30
+9,Problème mineur,Problème mineur dans le service,Service de Radiologie,2023-12-01
+10,Retard de livraison,Retard de livraison de fournitures médicales,Service de Pharmacie,2023-12-01
+11,Coupure d'eau,Coupure d'eau dans le service,Service des Installations,2023-12-02
+12,Chute de patient,Chute d'un patient dans le hall,Service des Urgences,2023-12-02
+13,Grippe,Plusieurs cas de grippe identifiés,Service d'Hygiène,2023-12-03
+14,Panne de courant,Panne de courant généralisée,Service des Installations,2022-12-01
+15,Erreur d'ordonnance,Erreur d'ordonnance médicale,Service de Pharmacie,2022-12-02
+16,Accident mineur,Accident mineur dans le hall,Service des Urgences,2022-12-03
