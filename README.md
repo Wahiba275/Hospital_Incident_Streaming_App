@@ -8,7 +8,9 @@
 - 🏛️ [Architecture](#architecture)
 - 📋 [Cas d'Utilisation](#cas-dutilisation)
 - 🏥 [Hospital Incidents Streaming App](#hospital-incidents-streaming-app)
-- 📈 [Résultats](#résultats)
+   - 📊 [Afficher d’une manière continue le nombre d’incidents par service](#afficher-dune-manire-continue-le-nombre-dincidents-par-service)
+   - 🎯 [Afficher d’une manière continue les deux années où il y avait plus d’incidents](#afficher-dune-manire-continue-les-deux-années-où-il-y-avait-plus-dincidents)
+   - 📈 [Résultats](#résultats)
 - 🏁 [Conclusion](#conclusion)
 
 ## 📝Introduction
