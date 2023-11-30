@@ -77,7 +77,7 @@ En ce qui concerne le schéma des données, nous utilisons la classe StructType 
 
 ```
 Cette portion de code est responsable de la lecture en continu des données à partir d'un flux CSV à l'aide de Spark
-## Afficher d’une manière continue le nombre d’incidents par service
+## 📊Afficher d’une manière continue le nombre d’incidents par service
 
 ```java
         // compter le nombre d'incidents par service
@@ -90,7 +90,7 @@ Cette portion de code est responsable de la lecture en continu des données à p
                 .start();
 ```
 
-## Afficher d’une manière continue les deux année ou il a y avait plus d’incidents
+## 🎯Afficher d’une manière continue les deux année ou il a y avait plus d’incidents
 ```java
         // compter le nombre d'incidents par année
         Dataset<Row> incidentsByYear = incidents
